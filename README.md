@@ -1,4 +1,4 @@
 # Projekt-Milionerzy
-** Funkcjonalność:
+**Funkcjonalność:**
 * możliwość sięgnięcia po koła ratunkowe
 *
